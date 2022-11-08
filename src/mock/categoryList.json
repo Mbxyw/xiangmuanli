@@ -1,0 +1,70 @@
+[
+    {
+        "categoryid": "001",
+        "categoryname": "数码电子",
+        "categorychild": [
+            {
+                "categoryid": "001",
+                "categoryname": "手机",
+                "categorychild": [
+                    {
+                        "categoryid": "001",
+                        "categoryname": "苹果"
+                    },
+                    {
+                        "categoryid": "002",
+                        "categoryname": "华为"
+                    }
+                ]
+            },
+            {
+                "categoryid": "002",
+                "categoryname": "电脑",
+                "categorychild": [
+                    {
+                        "categoryid": "001",
+                        "categoryname": "苹果"
+                    },
+                    {
+                        "categoryid": "002",
+                        "categoryname": "联想"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryid": "002",
+        "categoryname": "服装",
+        "categorychild": [
+            {
+                "categoryid": "001",
+                "categoryname": "上衣",
+                "categorychild": [
+                    {
+                        "categoryid": "001",
+                        "categoryname": "衬衫"
+                    },
+                    {
+                        "categoryid": "002",
+                        "categoryname": "外套"
+                    }
+                ]
+            },
+            {
+                "categoryid": "002",
+                "categoryname": "下衣",
+                "categorychild": [
+                    {
+                        "categoryid": "001",
+                        "categoryname": "工装裤"
+                    },
+                    {
+                        "categoryid": "002",
+                        "categoryname": "裙子"
+                    }
+                ]
+            }
+        ]
+    }
+]

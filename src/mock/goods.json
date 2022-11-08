@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "/images/iphone.jpg",
+        "goodsname": "苹果手机",
+        "descripte": "全高清屏1",
+        "price": 6999,
+        "delprice": "7999",
+        "shoptitle": "数码电子",
+        "categoryName": "数码电子",
+        "salenum": 222
+    },
+    {
+        "id": "2",
+        "imgUrl": "/images/icompute.jpg",
+        "goodsname": "苹果电脑1",
+        "descripte": "全高清屏2",
+        "price": 5666,
+        "delprice": "6999",
+        "shoptitle": "数码电子",
+        "categoryName": "数码电子",
+        "salenum": 5123
+    },
+    {
+        "id": "3",
+        "imgUrl": "/images/hwphone.jpg",
+        "goodsname": "华为手机1",
+        "descripte": "全高清屏1",
+        "price": 4199,
+        "delprice": "4999",
+        "shoptitle": "数码电子",
+        "categoryName": "数码电子",
+        "salenum": 5123
+    },
+    {
+        "id": "4",
+        "imgUrl": "/images/lianxiang.jpg",
+        "goodsname": "联想电脑1",
+        "descripte": "全高清屏2",
+        "price": 7999,
+        "delprice": "9999",
+        "shoptitle": "数码电子",
+        "categoryName": "数码电子",
+        "salenum": 213
+    },
+    {
+        "id": "5",
+        "imgUrl": "/images/chenshan.jpg",
+        "goodsname": "衬衫",
+        "descripte": "保暖舒适",
+        "price": 99,
+        "delprice": "199",
+        "shoptitle": "每日推荐",
+        "categoryName": "服装",
+        "salenum": 4123
+    },
+    {
+        "id": "6",
+        "imgUrl": "/images/waitao.jpg",
+        "goodsname": "外套",
+        "descripte": "保暖舒适",
+        "price": 288,
+        "delprice": "399",
+        "shoptitle": "每日推荐",
+        "categoryName": "服装",
+        "salenum": 2312
+    },
+    {
+        "id": "7",
+        "imgUrl": "/images/kuzi.jpg",
+        "goodsname": "工装裤",
+        "descripte": "保暖舒适",
+        "price": 77,
+        "delprice": "99",
+        "shoptitle": "每日推荐",
+        "categoryName": "服装",
+        "salenum": 1234
+    },
+    {
+        "id": "8",
+        "imgUrl": "/images/qunzi.jpg",
+        "goodsname": "裙子",
+        "descripte": "漂亮美观",
+        "price": 111,
+        "delprice": "233",
+        "shoptitle": "每日推荐",
+        "categoryName": "服装",
+        "salenum": 123
+    },
+    {
+        "id": "9",
+        "imgUrl": "/images/qunzi.jpg",
+        "goodsname": "子裙1",
+        "descripte": "漂亮美观",
+        "price": 111,
+        "delprice": "233",
+        "shoptitle": "推荐",
+        "categoryName": "服装",
+        "salenum": 3323
+    },
+    {
+        "id": "10",
+        "imgUrl": "/images/qunzi.jpg",
+        "goodsname": "裤子",
+        "descripte": "舒适",
+        "price": 111,
+        "delprice": "233",
+        "shoptitle": "推荐",
+        "categoryName": "服装",
+        "salenum": 222
+    },
+    {
+        "id": "11",
+        "imgUrl": "/images/qunzi.jpg",
+        "goodsname": "裙子2",
+        "descripte": "漂亮美观",
+        "price": 111,
+        "delprice": "233",
+        "shoptitle": "推荐",
+        "categoryName": "服装",
+        "salenum": 100
+    },
+    {
+        "id": "12",
+        "imgUrl": "/images/qunzi.jpg",
+        "goodsname": "裙子3",
+        "descripte": "漂亮美观",
+        "price": 121,
+        "delprice": "233",
+        "shoptitle": "推荐",
+        "categoryName": "服装",
+        "salenum": 123
+    }
+]
